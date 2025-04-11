@@ -44,5 +44,16 @@ h1 {
 
 footer {
     text-align: center;
+    font-family: "Poppins";
     padding: 10px;
+}
+
+@media screen and (max-width:1024px) {
+    
+    .display {
+        font-size: 3rem;
+        width: 95%;
+        height: 30%;
+    }
+
 }
